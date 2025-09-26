@@ -68,7 +68,7 @@
 
 ### 📊 **GitHub Stats**
 
-![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsha-akasam&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-akasam&layout=compact&theme=radical&hide_border=true)
+![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaAkasam&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaAkasam&layout=compact&theme=radical&hide_border=true)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/harsha-akasam/harsha-akasam/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/HarshaAkasam/HarshaAkasam/output/github-contribution-grid-snake.svg)
